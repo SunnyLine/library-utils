@@ -1,0 +1,3 @@
+rootProject.name='library-utils'
+include ':app'
+include ':x-util'
