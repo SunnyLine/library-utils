@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorView">
+        <attr name="item_width" format="dimension" />
+        <attr name="item_height" format="dimension" />
+        <attr name="item_margin" format="dimension" />
+        <attr name="item_animator" format="reference" />
+        <attr name="item_animator_reverse" format="reference" />
+        <attr name="item_drawable_selected" format="reference" />
+        <attr name="item_drawable_unselected" format="reference" />
+    </declare-styleable>
+</resources>
